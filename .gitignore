@@ -61,3 +61,7 @@ uploads/
 # Optional: secrets / credentials
 *.pem
 *.key
+
+
+
+/src/generated/prisma
