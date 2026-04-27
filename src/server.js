@@ -8,7 +8,6 @@ dotenv.config();
 const app = express();
 connectDB();
 
-
 //middlewares
 app.use(express.json());
 
